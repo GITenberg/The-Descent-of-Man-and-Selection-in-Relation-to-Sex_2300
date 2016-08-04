@@ -1,0 +1,64 @@
+_repo: The-Descent-of-Man-and-Selection-in-Relation-to-Sex_2300
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Darwin, Charles
+    alias: Darwin, Charles Robert
+    birthdate: 1809
+    deathdate: 1882
+    gutenberg_agent_id: '485'
+    url: http://www.gutenberg.org/2009/agents/485
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Darwin
+description: "The Descent of Man, and Selection in Relation to Sex is a book by English\
+  \ naturalist Charles Darwin, first published in 1871, which applies evolutionary\
+  \ theory to human evolution, and details his theory of sexual selection, a form\
+  \ of biological adaptation distinct from, yet interconnected with, natural selection.\
+  \ The book discusses many related issues, including evolutionary psychology, evolutionary\
+  \ ethics, differences between human races, differences between sexes, the dominant\
+  \ role of women in mate choice, and the relevance of the evolutionary theory to\
+  \ society.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2000-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2300'
+  wikidata: Q1165434
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Evolution (Biology)'
+- !lcc 'QH'
+- !lcsh 'Human beings -- Origin'
+- !lcsh 'Sex differences'
+- !lcsh 'Sexual dimorphism (Animals)'
+- !lcsh 'Sexual selection in animals'
+- GITenberg
+title: The Descent of Man, and Selection in Relation to Sex
+url: http://www.gutenberg.org/ebooks/2300
+wikipedia:
+- https://sv.wikisource.org/wiki/Menniskans_h%C3%A4rledning_och_k%C3%B6nsurvalet
+- https://fi.wikipedia.org/wiki/Ihmisen_polveutuminen_ja_sukupuolivalinta
+- https://fa.wikipedia.org/wiki/%D8%AA%D8%A8%D8%A7%D8%B1_%D8%A7%D9%86%D8%B3%D8%A7%D9%86%D8%8C_%D9%88_%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8_%D8%B7%D8%A8%DB%8C%D8%B9%DB%8C_%D8%AF%D8%B1_%D8%A7%D8%B1%D8%AA%D8%A8%D8%A7%D8%B7_%D8%A8%D8%A7_%D8%AC%D9%86%D8%B3%DB%8C%D8%AA
+- https://en.wikisource.org/wiki/The_Descent_of_Man_(Darwin)
+- https://commons.wikimedia.org/wiki/Category:The_Descent_of_Man,_and_Selection_in_Relation_to_Sex
+- https://gl.wikipedia.org/wiki/The_Descent_of_Man,_and_Selection_in_Relation_to_Sex
+- https://nn.wikipedia.org/wiki/Descent_of_Man
+- https://de.wikisource.org/wiki/Die_Abstammung_des_Menschen_und_die_geschlechtliche_Zuchtwahl
+- https://es.wikipedia.org/wiki/El_origen_del_hombre
+- https://en.wikipedia.org/wiki/The_Descent_of_Man,_and_Selection_in_Relation_to_Sex
+- https://ko.wikipedia.org/wiki/%EC%9D%B8%EA%B0%84%EC%9D%98_%EC%9C%A0%EB%9E%98%EC%99%80_%EC%84%B1%EC%84%A0%ED%83%9D
+- https://pt.wikipedia.org/wiki/A_Descend%C3%AAncia_do_Homem_e_Sele%C3%A7%C3%A3o_em_Rela%C3%A7%C3%A3o_ao_Sexo
+- https://fr.wikipedia.org/wiki/La_Filiation_de_l%27homme_et_la_s%C3%A9lection_li%C3%A9e_au_sexe
+- https://zh.wikipedia.org/wiki/%E4%BA%BA%E7%B1%BB%E7%9A%84%E7%94%B1%E6%9D%A5
+- https://da.wikipedia.org/wiki/Menneskets_afstamning_og_Parringsvalget
+- https://simple.wikipedia.org/wiki/The_Descent_of_Man
+- https://sv.wikipedia.org/wiki/M%C3%A4nniskans_h%C3%A4rledning_och_k%C3%B6nsurvalet
+- https://nl.wikipedia.org/wiki/De_afstamming_van_de_mens
+- https://id.wikipedia.org/wiki/The_Descent_of_Man,_and_Selection_in_Relation_to_Sex
+- https://de.wikipedia.org/wiki/Die_Abstammung_des_Menschen_und_die_geschlechtliche_Zuchtwahl
+- https://it.wikipedia.org/wiki/L%27origine_dell%27uomo_e_la_selezione_sessuale
+- https://no.wikipedia.org/wiki/The_Descent_of_Man
+- https://ca.wikipedia.org/wiki/La_descend%C3%A8ncia_de_l%27home_i_sobre_la_selecci%C3%B3_en_relaci%C3%B3_amb_el_sexe
+- https://tr.wikipedia.org/wiki/%C4%B0nsan%C4%B1n_T%C3%BCreyi%C5%9Fi
+- https://he.wikipedia.org/wiki/%D7%9E%D7%95%D7%A6%D7%90_%D7%94%D7%90%D7%93%D7%9D_(%D7%A1%D7%A4%D7%A8)
